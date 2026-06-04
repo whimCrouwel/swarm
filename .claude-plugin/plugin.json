@@ -1,0 +1,12 @@
+{
+  "name": "swarm",
+  "version": "1.0.0",
+  "description": "Turn any agenda into an autonomous agent team. A CEO decomposes the work, you approve the plan, then workers execute in periodic batches — building a persistent company folder that grows smarter over time.",
+  "author": {
+    "name": "whimCrouwel",
+    "url": "https://whim-on-vim.com"
+  },
+  "repository": "https://github.com/whimCrouwel/swarm",
+  "license": "MIT",
+  "keywords": ["agents", "automation", "multi-agent", "productivity", "CEO"]
+}
