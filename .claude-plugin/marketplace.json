@@ -14,10 +14,7 @@
         "name": "whimCrouwel"
       },
       "category": "productivity",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/whimCrouwel/swarm.git"
-      },
+      "source": ".",
       "homepage": "https://github.com/whimCrouwel/swarm"
     }
   ]
